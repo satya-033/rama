@@ -1,4 +1,4 @@
-class rama devi
+class Ramadevi
 {
   public static void main(String args[])
   {
